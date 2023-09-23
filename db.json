@@ -17,5 +17,7 @@
       "category": "shirt",
       "price": 1000
     }
-  ] 
+  ] ,
+  "categoryCounts":[],
+  "genderCounts":[]
 }
